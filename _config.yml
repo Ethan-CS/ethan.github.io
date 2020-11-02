@@ -10,20 +10,20 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
+# theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", 
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-UK"
+locale                   : "en-US"
 title                    : "Ethan Kelly"
 title_separator          : "-"
-subtitle                 : PhD Researcher
+subtitle                 : "PhD Student"
 name                     : "Ethan Kelly"
-description              : A base for updates and materials of interest that have come from my research.
-url                      : https://ethankelly.github.io
+description              : "Updates and objects of interest from my research"
+url                      : "https://ethankelly.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub ethankelly/ethankelly.github.io e.g. "mmistakes/minimal-mistakes"
+repository               : "ethankelly/ethankelly.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -39,9 +39,9 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default),
+    colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : "github-dark" # "github-light" (default), 
+    theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
     branch               : # "master"
@@ -94,51 +94,51 @@ analytics:
 # Site Author
 author:
   name             : "Ethan Kelly"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Student at the University of Glasgow"
+  avatar           : "/assets/images/me.jpg"
+  bio              : "Print(random.choice(['Playing the organ', 'Making espresso', 'Reading a paper', 'Pretending to code']))"
   location         : "Glasgow"
   email            : "e.kelly.1@research.gla.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:e.kelly.1@research,gla.ac.uk"
+      # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://gla.ac.uk/pgrs/ethankelly/"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      # url: "https://twitter.com/"
-#    - label: "Facebook"
-#      icon: "fab fa-fw fa-facebook-square"
-#      # url: "https://facebook.com/"
+       url: "https://gla.ac.uk/pgrs/ethankelly"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
        url: "https://github.com/ethankelly/"
-#   - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      # url: "https://instagram.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      # url:
-#    - label: "Facebook"
-#      icon: "fab fa-fw fa-facebook-square"
-#      # url:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/ethankelly/"
-#    - label: "GitLab"
-#      icon: "fab fa-fw fa-gitlab"
-#      # url:
-#    - label: "Bitbucket"
-#      icon: "fab fa-fw fa-bitbucket"
-#      # url:
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      # url:
+      # url:
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
 
 
 # Reading Files
