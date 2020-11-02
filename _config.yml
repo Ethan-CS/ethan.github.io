@@ -145,6 +145,13 @@ author:
 include:
   - .htaccess
   - _pages
+    - index.md
+    - about-me.md
+    - research.md
+    - cv.md
+    - general-interest.md
+    - useful-links.md
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
