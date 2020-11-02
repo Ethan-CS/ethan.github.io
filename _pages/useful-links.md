@@ -1,6 +1,7 @@
 ---
 title: Useful Links
 readtime: true
+permalink: /useful-links/
 ---
 
 
