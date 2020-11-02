@@ -144,13 +144,13 @@ author:
 # Reading Files
 include:
   - .htaccess
+  - index.md
   - [_pages]
-#    - index.md
-#    - about-me.md
-#    - research.md
-#    - cv.md
-#    - general-interest.md
-#    - useful-links.md
+    - about-me.md
+    - research.md
+    - cv.md
+    - general-interest.md
+    - useful-links.md
 
 exclude:
   - "*.sublime-project"
