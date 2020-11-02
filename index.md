@@ -1,7 +1,7 @@
 ---
 title: Home
-layout: template
-filename: index
+layout: home
+author_profile: true
 ---
 
 
