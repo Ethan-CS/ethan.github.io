@@ -1,7 +1,8 @@
 ---
 title: About me
 subtitle: Here
-readtime: true
+#readtime: true
+permalink: /about-me/
 ---
 
 
