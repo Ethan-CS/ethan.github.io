@@ -97,19 +97,19 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "e.kelly.1@research.gla.ac.uk"
+      url: "e.kelly.1@research.gla.ac.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://gla.ac.uk/pgrs/ethankelly"
+      url: "https://gla.ac.uk/pgrs/ethankelly"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+    #  url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/ethankelly/"
+      url: "https://github.com/ethankelly/"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    #  url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -119,13 +119,13 @@ footer:
   #     url:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "e.kelly.1@research.gla.ac.uk"
+      url: "e.kelly.1@research.gla.ac.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://gla.ac.uk/pgrs/ethankelly"
+      url: "https://gla.ac.uk/pgrs/ethankelly"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/ethankelly/"
+      url: "https://github.com/ethankelly/"
 
 # Reading Files
 include:
