@@ -131,12 +131,12 @@ footer:
 include:
   - .htaccess
   - index.md
-  - _pages
-    - about-me.md
-    - research.md
-    - cv.md
-    - general-interest.md
-    - useful-links.md
+  - [_pages]
+ #   - about-me.md
+ #   - research.md
+ #   - cv.md
+ #   - general-interest.md
+ #   - useful-links.md
 
 exclude:
   - "*.sublime-project"
