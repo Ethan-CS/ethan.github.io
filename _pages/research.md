@@ -1,7 +1,8 @@
 ---
 title: Research
-subtitle: Here
-readtime: true
+subtitle: An overview of what I'm working on
+#readtime: true
+permalink: /research/
 ---
 
 
