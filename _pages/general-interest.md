@@ -1,8 +1,8 @@
 ---
 title: General Interest
 subtitle: A directory of (hopefully) interesting material, not necessarily from or related to my research
-layout: template
-filename: general-interest
+#layout: template
+permalink: /general-interest/
 ---
 
 
