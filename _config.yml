@@ -145,7 +145,7 @@ author:
 include:
   - .htaccess
   - index.md
-  - [_pages]
+  - _pages
     - about-me.md
     - research.md
     - cv.md
