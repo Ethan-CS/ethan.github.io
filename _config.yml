@@ -98,38 +98,38 @@ author:
   bio              : "Print(random.choice(['Playing the organ', 'Making espresso', 'Reading a paper', 'Pretending to code']))"
   location         : "Glasgow"
   email            : "e.kelly.1@research.gla.ac.uk"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-       url: "e.kelly.1@research.gla.ac.uk"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-       url: "https://gla.ac.uk/pgrs/ethankelly"
+  #links:
+  #  - label: "Email"
+  #    icon: "fas fa-fw fa-envelope-square"
+  #     url: "e.kelly.1@research.gla.ac.uk"
+  #  - label: "Website"
+  #    icon: "fas fa-fw fa-link"
+  #     url: "https://gla.ac.uk/pgrs/ethankelly"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-       url: "https://github.com/ethankelly/"
+  #  - label: "GitHub"
+  #    icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/ethankelly/"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
-footer:
-  links:
+#footer:
+#  links:
   #  - label: "Twitter"
   #    icon: "fab fa-fw fa-twitter-square"
       # url:
   #  - label: "Facebook"
   #    icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-       url: "https://github.com/ethankelly/"
+ #   - label: "GitHub"
+ #     icon: "fab fa-fw fa-github"
+ #      url: "https://github.com/ethankelly/"
   #  - label: "GitLab"
   #    icon: "fab fa-fw fa-gitlab"
       # url:
