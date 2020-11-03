@@ -4,6 +4,18 @@ readtime: true
 permalink: /useful-links/
 ---
 
+## Useful Links
 
-_Return to [home](https://ethankelly.github.io/index)_
+### University of Glasgow Links
+* Research student profile: [https://gla.ac.uk/pgrs/ethankelly/]
+* Staff profile: [https://www.gla.ac.uk/schools/computing/staff/ethankelly/]
 
+
+### Github Links
+* GitHub profile: [https://github.com/ethankelly/]
+  * Github Research repository: [https://github.com/ethankelly/research]
+  * Repository for this website: [https://github.com/ethankelly/ethankelly.github.io]
+* This site is based on and uses the minimal-mistakes theme: [https://mmistakes.github.io/minimal-mistakes/]
+
+
+More links to come...
