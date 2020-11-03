@@ -4,6 +4,9 @@ subtitle: A directory of (hopefully) interesting material, not necessarily from 
 layout: single
 author_profile: true
 read_time: true
+header:
+  image: /assets/images/flowers.jpg
+  image_description: "A picture of two large, red flowers"
 permalink: /general-interest/
 ---
 
