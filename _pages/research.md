@@ -1,7 +1,9 @@
 ---
 title: Research
 subtitle: An overview of what I'm working on
-#readtime: true
+layout: single
+read_time: true
+author_profile: true
 permalink: /research/
 ---
 
