@@ -1,6 +1,9 @@
 ---
 layout: home
 author_profile: true
+header:
+  image: /assets/images/tree.jpg
+  image_description: "A picture of a tree in bloom, seen from below"
 ---
 
 ## Welcome to my page
