@@ -10,12 +10,11 @@ permalink: /about-me/
 #  image_description: "..."
 ---
 
-# About Me
+## Hi!
 
-Hello! My name's Ethan and I'm a PhD student at the University of Glasgow. I officially started my PhD on 1 October 2020, with the official title:
+Hello! My name's Ethan and I'm a PhD student at the University of Glasgow. I like coffee, sunshine and the feeling you get when code does what you wanted it to. I officially started my PhD on 1 October 2020, with the official title:
 
-> Game-theoretic and probabilistic methods applied
-> to spatial network models of contagion.
+> Game-theoretic and probabilistic methods applied to spatial network models of contagion.
 
 What this means in practice is that I study games played on "graphs" (also called networks) and how, by introducing some grey areas using probabilities and such like, I can play these games as models for the spread of diseases (or fires in forests, memes on social networks - the applications are very broad). Most of the work done in this area so far assumes lots of simplifying measures, such as 'regular graphs' which translate to a network of individuals being a well-mixed population where everyone has the same number of contacts. We know this isn't very true to the reality of the situation, so using probabilistic methods we can introduce some more useful random distributions, where some people know loads of other people and other people come into contact with very few people regularly. Further, we can make the contagion (be it a disease, meme or such like) transmit with a given probability, thereby providing the model with a more interesting spreading pattern than is usually assumed in the literature, which can make our strategy for defence against the contagion far more interesting and useful. Game theory comes into this in a special way when we not only think of ourselves as defending against this contagion, but think of the contagion as another player; perhaps we want to know what the contagion's best strategy is, if it were a virus with genes edited so that it gives any host it infects resistance to a particular disease, for instance. Of course, this context comes with all sorts of ethical considerations that are far from trivial, and this is something I'm also very interested in exploring in my work.
 
