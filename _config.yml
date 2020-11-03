@@ -95,7 +95,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "e.kelly.1@research.gla.ac.uk"
+      email: "e.kelly.1@research.gla.ac.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://gla.ac.uk/pgrs/ethankelly"
