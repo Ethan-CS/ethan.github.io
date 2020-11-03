@@ -10,6 +10,7 @@ permalink: /about-me/
 #  image_description: "..."
 ---
 
+# About Me
 
 Hello! My name's Ethan and I'm a PhD student at the University of Glasgow. I officially started my PhD on 1 October 2020, with the official title:
 
