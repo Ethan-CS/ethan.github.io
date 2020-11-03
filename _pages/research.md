@@ -7,7 +7,6 @@ author_profile: true
 permalink: /research/
 ---
 
-# My Research
 
 ## About my PhD
 
@@ -29,11 +28,19 @@ How can we use this? Well, if we think of each vertex as an individual and the f
 
 _Firebreak_ is a similar idea to _Firefighter_, with one crucial difference: the defence strategy must be performed all in one go, before the fire breaks. This may be useful in a situation where we have a fixed budget to spend, which we deploy in one go by removing given vertices (introducing firebreaks) in the hopes of containing the outbreak as well as we can. The following animation shows the outbreak of a fire on a graph that we have removed some vertices randomly with probability 1/2, in order to represent more accurately a forest fire (see my notes on Percolation).
 
-<figure class="half">
-    <a href="/assets/images/outbreak.gif"></a>
-    <a href="/assets/images/firebreak.gif"></a>
-    <figcaption>_ Simple animations of first an unregulated firebreak on a randomly percolated graph and of an outbreak of fire when a defence of 2 vertices has been implemented._</figcaption>
+{% capture fig_img %}
+![Foo]({{ "/assets/images/outbreak.gif" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Simple animation of an unregulated firebreak on a randomly percolated graph</figcaption>
 </figure>
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/firebreak.gif)
+
+Simple animations of first an unregulated firebreak on a randomly percolated graph and of an outbreak of fire when a defence of 2 vertices has been implemented._</figcaption>
+
 
 Now, if we are allowed a budget that would cover the removal of up to two vertices ('trees') on the graph (in the 'forest'), we may choose to remove them in the way displayed in the next animation. Here, we see that we have managed to much better contain the fire using our firebreak.
 
