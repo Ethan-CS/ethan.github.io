@@ -6,37 +6,7 @@ permalink: /general-interest/
 ---
 
 
-_Return to [home](https://ethankelly.github.io/index)_
+## General Interest
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-_Return to [home](https://ethankelly.github.io/index)_
+Under construction...
