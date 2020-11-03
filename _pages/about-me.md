@@ -1,7 +1,8 @@
 ---
 title: About me
-subtitle: Here
-#readtime: true
+subtitle: Who I am and what I'm doing
+author_profile: true
+read_time: true
 permalink: /about-me/
 ---
 
