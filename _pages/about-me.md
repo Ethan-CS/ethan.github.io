@@ -1,13 +1,13 @@
 ---
 title: About me
 subtitle: Who I am and what I'm doing
-layout: splash
+layout: single
 author_profile: true
 read_time: true
+permalink: /about-me/
 #header:
 #  image: /assets/images/
 #  image_description: "..."
-permalink: /about-me/
 ---
 
 
