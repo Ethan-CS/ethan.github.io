@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-layout: collection
+layout: single
 read_time: true
 author_profile: true
 permalink: /useful-links/
