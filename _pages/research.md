@@ -4,6 +4,8 @@ subtitle: An overview of what I'm working on
 layout: single
 read_time: true
 author_profile: true
+#toc: true
+#toc_label: "Contents"
 permalink: /research/
 ---
 
