@@ -18,4 +18,4 @@ Above, you can find links to the pages on this site. You can read about me and w
 I'm sure it won't go unnoticed that this is a fairly simple page, as they go nowadays; this is done with intent. Many students I work with in the modules that I help teach at the University are in areas where internet connectivity is not fast generally, others have daily or monthly limits on data usage, and I would not like to restrict anyone subject to those constraints from viewing my page. I'm glad enough if anyone reads it, so I wish to make it as accessible as possible!
 
 
-Feel free to contact me through any of the links to the left side of this site; email is the fastes way to reach me, but choose whichever method you prefer to get in touch. In any case, check back anytime as I try and keep this site updated as best I can. Thanks for visiting!
+Feel free to contact me through any of the links to the left side of this site; email is the fastest way to reach me, but choose whichever method you prefer to get in touch. In any case, check back anytime as I try and keep this site updated as best I can. Thanks for visiting!
