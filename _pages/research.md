@@ -1,11 +1,11 @@
 ---
 title: Research
 subtitle: An overview of what I'm working on
-layout: single
+layout: collection
 read_time: true
 author_profile: true
-#toc: true
-#toc_label: "Contents"
+toc: true
+toc_label: "Contents"
 permalink: /research/
 ---
 
