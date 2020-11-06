@@ -7,6 +7,9 @@ author_profile: true
 toc: true
 toc_label: "Contents"
 permalink: /research/
+header:
+  image: /assets/images/books.jpg
+  image_description: "A picture of bookshelves, with many books stacked on them"
 ---
 
 ## About my PhD
