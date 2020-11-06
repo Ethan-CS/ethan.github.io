@@ -6,7 +6,7 @@ read_time: true
 author_profile: true
 toc: true
 toc_label: "Contents"
-permalink: /research/
+permalink: docs/research/research/
 ---
 
 
