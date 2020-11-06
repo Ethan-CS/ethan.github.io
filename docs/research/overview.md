@@ -1,12 +1,12 @@
 ---
-title: Research
+title: Summary of my Research
 subtitle: An overview of what I'm working on
 layout: collection
 read_time: true
 author_profile: true
 toc: true
 toc_label: "Contents"
-permalink: docs/research/research/
+permalink: docs/research/overview/
 ---
 
 
