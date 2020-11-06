@@ -6,8 +6,6 @@ main:
    url: /about-me/  
  - title: "Research Portfolio"
    url: /portfolio/
-   - title: "Research Overview"
-     url: /overview/
  - title: "General Interest"
    url: /general-interest/
  - title: "Useful Links"
