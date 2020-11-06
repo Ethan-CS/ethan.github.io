@@ -3,7 +3,7 @@ title: Useful Links
 layout: single
 read_time: true
 author_profile: true
-permalink: /docs/_pages/useful-links/
+permalink: /useful-links/
 ---
 
 ## Useful Links
