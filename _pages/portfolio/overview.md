@@ -1,7 +1,6 @@
 ---
-title: Research summary
-subtitle: An overview of what I'm working on
-layout: collection
+title: "Research summary"
+excerpt: "An overview of what I'm working on"
 read_time: true
 author_profile: true
 toc: true
