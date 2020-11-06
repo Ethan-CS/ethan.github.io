@@ -125,6 +125,11 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ethankelly/"
 
+collections: 
+    portfolio:
+        output: true
+        permalink: /:collection/:path/
+
 # Reading Files
 include:
   - .htaccess
@@ -271,3 +276,11 @@ defaults:
       read_time: true
       share: true
       related: true
+  # _portfolio
+  - scope:
+    path: ""
+    type: portfolio
+  values:
+    layout: single
+    author_profile: true
+    share: true
