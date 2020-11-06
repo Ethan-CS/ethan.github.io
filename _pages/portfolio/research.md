@@ -1,12 +1,12 @@
 ---
-title: Research
+title: Research summary
 subtitle: An overview of what I'm working on
 layout: collection
 read_time: true
 author_profile: true
 toc: true
 toc_label: "Contents"
-permalink: /research/
+permalink: /overview/
 header:
   image: /assets/images/books.jpg
   image_description: "A picture of bookshelves, with many books stacked on them"
@@ -16,11 +16,11 @@ header:
 
 **_TITLE: Game theoretic and probabilistic methods applied to spatial network models of contagion_**
 
-Above is the research title that I was accepted to the University of Glasgow to investigate. Effectively, I'm interested in problems on graphs such as the Firefighter Problem and how using game theory and stochastic methods means they can be used to generate useful and descriptive models of contagion. To explain this, let's look at the Firefighter Problem.
+Above is the research title that I was accepted to the University of Glasgow to investigate. In non-technical terms, I'm interested in problems on "graphs" (collections of vertices, represented as dots, connected by lines called edges) such as the Firefighter Problem (discussed below) and how using game theory and stochastic methods means they can be used to generate useful and descriptive models of contagion. To explain this, let's look at the Firefighter Problem.
 
 ### The Firefighter Problem
 
-First introduced by Hartnell in 1995<sup>[1](#myfootnote1)</sup>, the Firefighter Problem (which we will refer to simply as _<span style="font-variant:small-caps;">Firefighter</span>_ from now on) is a simple model for an outbreak of fire. Consider a regular graph, which is just a collection of vertices (or nodes) connected to each other by edges (links) and what makes it regular is that every vertex has the same number of neighbours, such as in the following example.
+First introduced by Hartnell in 1995<sup>[1](#myfootnote1)</sup>, the Firefighter Problem (which we will refer to simply as _Firefighter_ from now on) is a simple model for an outbreak of fire. Consider a regular graph, where every vertex has the same number of neighbours, such as in the following example.
 
 (Image coming soon)
 
