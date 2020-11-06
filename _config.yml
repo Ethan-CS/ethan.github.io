@@ -118,10 +118,10 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "e.kelly.1@research.gla.ac.uk"
-    - label: "Website"
+    - label: "UofG Research page"
       icon: "fas fa-fw fa-link"
       url: "https://gla.ac.uk/pgrs/ethankelly"
-    - label: "GitHub"
+    - label: "GitHub Profile"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ethankelly/"
 
