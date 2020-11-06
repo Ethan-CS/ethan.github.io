@@ -4,7 +4,7 @@ layout: single
 filename: cv
 author_profile: true
 read_time: true
-permalink: /cv/
+permalink: docs/_pages/cv/
 ---
 
 ## CV
