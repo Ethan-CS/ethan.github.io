@@ -129,7 +129,9 @@ footer:
 include:
   - .htaccess
   - index.md
-  - _pages
+  - docs
+    - _pages
+      - research
  #   - about-me.md
  #   - research.md
  #   - cv.md
