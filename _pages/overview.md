@@ -1,7 +1,7 @@
 ---
 title: Summary of my Research
 subtitle: An overview of what I'm working on
-layout: collection
+layout: single
 read_time: true
 author_profile: true
 toc: true
