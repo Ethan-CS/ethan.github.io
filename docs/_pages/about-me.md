@@ -4,7 +4,7 @@ subtitle: Who I am and what I'm doing
 layout: single
 author_profile: true
 read_time: true
-permalink: /about-me/
+permalink: /docs/_pages/about-me/
 header:
   image: /assets/images/organ.jpg
   image_description: "A picture of organ pipes with stained glass behind"
