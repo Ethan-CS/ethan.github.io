@@ -128,7 +128,7 @@ collections:
 include:
   - .htaccess
   - index.md
-  - [_pages]
+  - _pages
 #    - portfolio
 
 
