@@ -1,6 +1,6 @@
 ---
 title: "Research summary"
-excerpt: "An overview of what I'm working on"
+excerpt: "The problems I'm currently working on and where I hope to take them."
 read_time: true
 author_profile: true
 toc: true
