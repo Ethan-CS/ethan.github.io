@@ -9,6 +9,7 @@ permalink: /overview/
 header:
   image: /assets/images/books.jpg
   image_description: "A picture of bookshelves, with many books stacked on them"
+  teaser: /assets/images/books-t.jpg
 ---
 
 ## About my PhD
