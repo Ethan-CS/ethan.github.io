@@ -1,6 +1,6 @@
 ---
 title: "Long-Term Research Goals"
-excerpt: "What I aim to achieve"
+excerpt: "A more general overview of what I hope to achieve in my PhD and why it's exciting!"
 read_time: true
 author_profile: true
 toc: true
