@@ -4,7 +4,7 @@ layout: single
 read_time: false
 author_profile: true
 header:
-  image: /assets/images/night-sky.jpg
+  image: /assets/images/stars.jpg
   image_description: "A picture of the sky at night, bright with stars"
 permalink: /useful-links/
 ---
