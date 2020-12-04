@@ -5,8 +5,8 @@ layout: single
 author_profile: true
 read_time: true
 header:
-  image: /assets/images/flowers.jpg
-  image_description: "A picture of some large, white flowers"
+  image: /assets/images/italian-alps.jpg
+  image_description: "A picture of the Italian alps early in the morning"
 permalink: /general-interest/
 ---
 
