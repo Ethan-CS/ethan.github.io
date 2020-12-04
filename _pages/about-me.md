@@ -29,6 +29,26 @@ In the above formulation, the main area of interest in understanding these games
 
 ## Academic Background
 
+### Summary
+
+This is a very brief summary of my academic experience and activities; below, you will find some highlights expanded on in a little more detail.
+
+Qualifications:
+* B.Sc.(hons.) Mathematics and Philosophy, University of Glasgow, 2017 - 2020
+* PhD Candidate, Computing Science (Formal Analysis, Theory and Algorithms research section), University of Glasgow, 2020 - present (ongoing)
+
+Teaching:
+* Tutor and Lab Demonstrator, School of Computing Science, University of Glasgow, 2020 - present
+  * Java Programming (Level 2)
+  * Algorithmic Foundations (Level 2)
+  * Foundations of Professional Software Engineering (Level 1, Graduate Apprenticeship program)
+
+Academic body memberships and involvement:
+* Associate Member of the Institute of Mathematics and its Applications (AMIMA), 2020 - present
+* Member of the Edinburgh Mathematical Society, 2020 - present
+* Executive Committee Member for Welfare and Inclusion of the [ePCC](https://pcc2020.github.io/) (the online Postgraduate Combinatorial Conference), 2020 - present
+* Lanfine Organ Student, University of Glasgow, 2020 - present
+
 ### Pre-University
 I was born in London and spent my first few years where my Mum grew up, in Hounslow, before the three of us (Mum, Dad and me) to my Dad's home, the North East of England. I attended primary and then secondary school, Cardinal Hume Catholic School, in Gateshead - the town I grew up in. I studied many GCSE subjects from maths and further maths to music and French, and went on to study four AS-levels: maths, further maths, physics and history. I then went on to complete my A-levels in maths, further maths and history before leaving the North East to attend the University of Glasgow. I also completed an Extended Project Qualification (EPQ) on the beauty of mathematics, which was one of the highlights of my sixth-form years!
 
