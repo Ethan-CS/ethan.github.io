@@ -14,6 +14,8 @@ permalink: /useful-links/
 * Staff profile: [gla.ac.uk/schools/computing/staff/ethankelly](https://www.gla.ac.uk/schools/computing/staff/ethankelly/)
 * School of Computing Science: [gla.ac.uk/schools/computing](https://www.gla.ac.uk/schools/computing/)
 
+## ePCC (online Postgraduate Combinatorial Conference)
+* Information about an online series of talks from postgrads across Europe working in Combinatorics and Descrete Mathematics, which I help to organise: [pcc2020.github.io](https://pcc2020.github.io]
 
 ## Github Links
 * GitHub profile: [github.com/ethankelly](https://github.com/ethankelly/)
