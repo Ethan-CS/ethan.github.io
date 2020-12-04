@@ -6,7 +6,7 @@ author_profile: true
 read_time: true
 header:
   image: /assets/images/flowers.jpg
-  image_description: "A picture of two large, red flowers"
+  image_description: "A picture of some large, white flowers"
 permalink: /general-interest/
 ---
 
