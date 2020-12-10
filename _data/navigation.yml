@@ -4,11 +4,11 @@ main:
    url: /
  - title: "About me"
    url: /about-me/  
- - title: "Research Portfolio"
+ - title: "Research"
    url: /portfolio/
  - title: "General Interest"
    url: /general-interest/
  - title: "Useful Links"
    url: /useful-links/
- - title: "Get in touch"
+ - title: "Contact"
    url: /contact/
