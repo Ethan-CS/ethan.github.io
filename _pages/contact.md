@@ -7,9 +7,9 @@ read_time: true
 permalink: /contact/
 toc: true
 toc_label: "Contact details"
-#header:
-#  image: /assets/images/paint.jpg
-#  image_description: "A picture of swirling blue and red paint on a black backdrop."
+header:
+  image: /assets/images/paint.jpg
+  image_description: "A picture of swirling blue and red paint on a black backdrop."
 ---
 # My Contact Details
 
