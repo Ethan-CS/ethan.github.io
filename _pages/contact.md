@@ -19,8 +19,8 @@ You can see a very brief overview of my contact details in my "Author Profile," 
 ### Email
 
 You can reach me at either of my University of Glasgow email addresses:
-* [e.kelly.1@research.gla.ac.uk](mailto:e.kelly.1@research.gla.ac.uk) (my research student account, preferred)
-* [Ethan.Kelly@glasgow.ac.uk](mailto:Ethan.Kelly@glasgow.ac.uk) (my staff account)
+* [e.kelly.1@research.gla.ac.uk](mailto:e.kelly.1@research.gla.ac.uk) (research student account, preferred)
+* [Ethan.Kelly@glasgow.ac.uk](mailto:Ethan.Kelly@glasgow.ac.uk) (staff account)
 
 ### Office
 
