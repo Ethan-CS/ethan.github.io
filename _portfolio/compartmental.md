@@ -42,9 +42,10 @@ $$
 
 You may be familiar with the [Law of Mass Action](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Equilibria/Chemical_Equilibria/Mass_Action_Law), a law of nature describing equilibrium in chemistry; the above equation isn't far off this law!
 
-Now, we consider the transition from \(I\) to \(R\) - we assume that the rate here is proportional to the number of infectious people, which we denote by $\gamma I$. In fact, this is the same as saying the probability of someone recovering in a time interval \(dt\) is just \(\gamma dt\), and if we take the average length of the infectious period to be \(D\) then \(\gamma = 1/D\). This is the same as assuming that the length of the infectious period of a disease is a [random variable](https://www.britannica.com/science/statistics/Random-variables-and-probability-distributions) which has an [exponential distribution](https://mathworld.wolfram.com/ExponentialDistribution.html). Of course, if an infected individual never recovers, we say that \(\gamma = 0\) and the SIR model becomes the much simpler SI model, the solution of this being that eventually everyone becomes infected.
+Now, we consider the transition from $$I$$ to $$R$$ - we assume that the rate here is proportional to the number of infectious people, which we denote by $$\gamma I$$. In fact, this is the same as saying the probability of someone recovering in a time interval $$dt$$ is just $$\gamma dt$$, and if we take the average length of the infectious period to be $$D$$ then \(\gamma = 1/D\). This is the same as assuming that the length of the infectious period of a disease is a [random variable](https://www.britannica.com/science/statistics/Random-variables-and-probability-distributions) which has an [exponential distribution](https://mathworld.wolfram.com/ExponentialDistribution.html). Of course, if an infected individual never recovers, we say that $$\gamma = 0$$ and the SIR model becomes the much simpler SI model, the solution of this being that eventually everyone becomes infected.
 
 Now, with those preliminaries out of the way, we can write down three differential equations that describe the SIR model [[1]](#1):
+
 $$
 \begin{align*}
 \frac{dS}{dt} & = -\frac{\beta IS}{N},       ~~~ & S(0) = S_0 \geq 0, \\
@@ -53,7 +54,7 @@ $$
 \end{align*}
 $$
 
-Note that here, \(S(t), I(t) \text{~and~} R(t)\) the numbers in the respective compartents, i.e. \(S(t) + I(t) + R(t) = N.\)
+Note that here, $$S(t), I(t) \text{~and~} R(t)$$ the numbers in the respective compartents, i.e. $$S(t) + I(t) + R(t) = N.$$
 
 
 
