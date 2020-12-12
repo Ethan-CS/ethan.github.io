@@ -54,7 +54,7 @@ $$
 \end{align*}
 $$
 
-Note that here, $$S(t), I(t) \text{ and } R(t)$$ are the numbers in the respective compartents so that $$S(t) + I(t) + R(t) = N.$$
+Note that here, $$S(t), I(t)$$ and $$R(t)$$ are the numbers in the respective compartents so that $$S(t) + I(t) + R(t) = N.$$
 
 
 
