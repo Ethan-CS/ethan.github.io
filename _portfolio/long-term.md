@@ -5,7 +5,7 @@ read_time: true
 author_profile: true
 toc: true
 toc_label: "Contents"
-permalink: /long-term/
+permalink: /research/long-term/
 header:
   image: /assets/images/abstract-silhouette.jpg
   image_description: "A picture of some bright pink lines with a black silhouette in the centre"
