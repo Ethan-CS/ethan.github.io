@@ -50,6 +50,7 @@ Now, with those preliminaries out of the way, we can write down three differenti
 \frac{dS}{dt} & = -\frac{\beta IS}{N},       ~~~ & S(0) = S_0 \geq 0, \\
 \frac{dI}{dt} & = \frac{\beta IS}{N} - \gamma I, & I(0) = I_0 \geq 0,\\
 \frac{dR}{dt} & = \gamma I                       & R(0) - R_0 \geq 0.
+\end{align*}
 \]
 
 Note that here, \(S(t), I(t) \text{~and~} R(t)\) the numbers in the respective compartents, i.e. \(S(t) + I(t) + R(t) = N.\)
