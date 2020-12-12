@@ -5,7 +5,7 @@ read_time: true
 author_profile: true
 toc: true
 toc_label: "Contents"
-permalink: /overview/
+permalink: /research/overview/
 header:
   image: /assets/images/books.jpg
   image_description: "A picture of bookshelves, with many books stacked on them"
