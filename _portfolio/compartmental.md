@@ -37,7 +37,7 @@ In epidemiology, we generally have to decide whether to consider "vital dynamics
 If we choose not to consider vital dynamics (in the case of a short-lived epidemic/pandemic), we can get some nice differential equations. To do this, we need to make some initial definitions. Let's take the SIR model we have been considering as an example so far. Consider the transition between $$S$$ and $$I$$. Let $$N$$ be the size of the population, $$\beta$$ be the average number of contacts each person has per unit time multiplied by the probability of transmission from an infected to a susceptible individual and hence $$SI/{N^2}$$ is the proportion of contact between infectious and susceptible individuals that result in transmission. Then, the rate of transmission can be written as
 
 $$
-\frac{d(S/N)}{dt} = -\beta \frac{SI}{N^2}.
+\frac{d(S/N)}{dt} = -\frac{\beta SI}{N^2}.
 $$
 
 You may be familiar with the [Law of Mass Action](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Equilibria/Chemical_Equilibria/Mass_Action_Law), a law of nature describing equilibrium in chemistry; the above equation isn't far off this law!
