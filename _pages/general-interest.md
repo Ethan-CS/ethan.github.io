@@ -1,17 +1,9 @@
 ---
 title: General Interest
 subtitle: A directory of (hopefully) interesting material, not necessarily from or related to my research
-layout: single
+layout: collection
 author_profile: true
-read_time: true
-header:
-  image: /assets/images/italian-alps.jpg
-  image_description: "A picture of the Italian alps early in the morning"
-permalink: /general-interest/
+collection: interest
+entries_layout: grid
+classes: wide
 ---
-
-
-## General Interest
-
-
-Under construction...
