@@ -6,4 +6,5 @@ author_profile: true
 collection: interest
 entries_layout: grid
 classes: wide
+permaling: /general-interest/
 ---
