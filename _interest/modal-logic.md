@@ -1,7 +1,6 @@
 ---
-title: Modal Logic
-subtitle: A few interesting facts and results in modal logic.
-layout: single
+title: "Modal Logic"
+subtitle: "A few interesting facts and results in modal logic."
 author_profile: true
 read_time: true
 permalink: /general-interest/modal-logic/
