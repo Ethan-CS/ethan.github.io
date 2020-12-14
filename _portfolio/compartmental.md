@@ -55,9 +55,22 @@ $$
 \end{align*}
 $$
 
-Note that here, $$S(t), I(t)$$ and $$R(t)$$ are the numbers in the respective compartments so that $$S(t) + I(t) + R(t) = N.$$
+Note that here, $$S(t), I(t)$$ and $$R(t)$$ are the numbers in the respective compartments so that $$S(t) + I(t) + R(t) = N.$$ From the discussions above, we see that the dynamics of the infectious compartment are dependent on $$R_0=\beta / \gamma$$, which we term the _basic reproduction rate._ During the COVID-19 pandemic, we have heard near-constant discussion of the so-called "$$R$$" number: this $$R_0$$ describes the baseline rate at which, left unimpeded, we could expect a disease to reproduce, and $$R$$ in a given scenario is the rate at which an infection is actually transmitting.
 
 
+### With vital dynamics (endemic model)
+
+If we'd like to model a disease which does require consideration of the births and deaths in a population using the above SIR model, we can make a few adjustments to account for these vital dynamics. The resulting model is known as the classic endemic model and is given by:
+
+$$
+\begin{align*}
+\frac{dS}{dt} & = \mu N - \mu S -\frac{\beta IS}{N},         S(0) & = S_0 \geq 0, \\
+\frac{dI}{dt} & = \frac{\beta IS}{N} - \gamma I - \mu I,     I(0) & = I_0 \geq 0,\\
+\frac{dR}{dt} & = \gamma I - \mu I                           R(0) & = R_0 \geq 0.
+\end{align*}
+$$
+
+This is pretty much the same as our SIR model above, but now we can account for the birthrate adding newborns into the susceptible compartment at a rate of $$\mu N$$ and the deathrate removing individuals from all classes at rates $$\mu S$$, $$\mu I$$ and $$\mu R$$ for susceptible, infected and recovered respectively. In these models, we generally have that births balance the deaths, so $$N$$, the size of the population, is still a constant. In this classic endemic model, the basic reproduction rate is given by $$R_0 = \beta / (\gamma + \mu)$$.
 
 
 
