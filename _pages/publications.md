@@ -1,5 +1,5 @@
 ---
-title: My Publications
+title: "My Publications"
 layout: single
 author_profile: true
 read_time: true
