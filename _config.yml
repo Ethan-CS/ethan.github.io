@@ -185,11 +185,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Used to host Jupyer notebooks on page
-- name: fastpages: An easy to use blogging platform with support for Jupyter Notebooks.
-  uses: fastai/fastpages@v2.1.5
-
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
