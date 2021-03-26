@@ -62,14 +62,15 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : EthanKellyPhD
-  og_image               : # Open Graph/Twitter default site image
+  username               : "EthanKellyPhD"
+og_image                 : "/assets/images/me.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-#social:
-#  type                   : # Person or Organization (defaults to Person)
-#  name                   : # If the user or organization name differs from the site's name
-#  links: # An array of links to social media profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+
 
 # Analytics
 analytics:
@@ -83,13 +84,13 @@ analytics:
 author:
   name             : "Ethan Kelly"
   avatar           : "/assets/images/me.jpg"
-  bio              : "Print(random.choice(['Playing the piano', 'Making espresso', 'Reading a paper', 'Pretending to code']))"
+  bio              : "print(random.choice(['Playing the piano', 'Making coffee', 'Pretending to code']))"
   location         : "Glasgow"
   email            : "e.kelly.1@research.gla.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      email: "e.kelly.1@research.gla.ac.uk"
+      email: "mailto:e.kelly.1@research.gla.ac.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://gla.ac.uk/pgrs/ethankelly"
@@ -111,11 +112,11 @@ footer:
        url: "https://twitter.com/EthanKellyPhD"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "e.kelly.1@research.gla.ac.uk"
-    - label: "UofG Research page"
+      url: "mailto:e.kelly.1@research.gla.ac.uk"
+    - label: "UofG Research"
       icon: "fas fa-fw fa-link"
       url: "https://gla.ac.uk/pgrs/ethankelly"
-    - label: "GitHub Profile"
+    - label: "GitHub"
       icon: "fas fa-fw fa-github"
       url: "https://github.com/ethankelly/"
 
