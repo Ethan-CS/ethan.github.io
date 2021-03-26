@@ -42,4 +42,4 @@ If you're at the University of Glasgow, either studying or employed, you should 
 
 ## Social media
 
-While I don't currently have any publicly accessible social media, this section is here in part to remind me to set them up! This will be the first place I put any relevant accounts if I ever get round to it.
+I'm currently trying out twitter - you can find me [here](https://twitter.com/EthanKellyPhD).
