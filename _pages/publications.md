@@ -19,5 +19,5 @@ While I haven't had anything published so far (give me time, I'm only in my firs
 
 Feel free to get in touch with me to discuss any of these pieces of research!
 
-* Abstract from a talk given at the First University of Glasgow Computational Biology Conference: [Introducing features of agency into computational models of infectious disease](https://ethankelly.github.io/assets/Abstract.pdf)
-* My degree project (like a dissertation), submitted in 2020 in partial fulfilment for my BSc in Mathematics and Philosophy: [Mathematics of the Pipe Organ](https://ethankelly.github.io/assets/MathematicsOfThePipeOrgan.pdf)
+* Abstract from a talk given at the First University of Glasgow Computational Biology Conference: [Introducing features of agency into computational models of infectious disease](../assets/Abstract.pdf)
+* My degree project (like a dissertation), submitted in 2020 in partial fulfilment for my BSc in Mathematics and Philosophy: [Mathematics of the Pipe Organ](../assets/MathematicsOfThePipeOrgan.pdf)
