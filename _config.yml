@@ -6,14 +6,14 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dirt"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Ethan Kelly"
+title                    : "Ethan Hunter"
 title_separator          : "|"
 subtitle                 : "PhD Research"
-name                     : "Ethan Kelly"
+name                     : "Ethan Hunter"
 description              : "A catalogue of updates and objects of interest from my research"
-url                      : "https://ethankelly.github.io"
+url                      : "https://ethanhunter.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "ethankelly/ethankelly.github.io"
+repository               : "ethanhunter/ethanhunter.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -62,7 +62,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "EthanKellyPhD"
+  # username               : "Ethan-cs"
 og_image                 : "/assets/images/me.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -82,43 +82,43 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ethan Kelly"
+  name             : "Ethan Hunter"
   avatar           : "/assets/images/me.jpg"
   bio              : "print(random.choice(['Playing the piano', 'Making coffee', 'Pretending to code']))"
   location         : "Glasgow"
-  email            : "e.kelly.1@research.gla.ac.uk"
+  email            : "e.hunter.2@research.gla.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      email: "mailto:e.kelly.1@research.gla.ac.uk"
+      email: "mailto:e.hunter.2@research.gla.ac.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://gla.ac.uk/pgrs/ethankelly"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/EthanKellyPhD"
+      url: "https://gla.ac.uk/pgrs/ethanhunter"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/EthanHunterPhD"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ethankelly/"
+      url: "https://github.com/ethan-cs/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/EthanKellyPhD"
+      url: "https://instagram.com/vraiment_ethan"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/EthanKellyPhD"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/EthanKellyPhD"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:e.kelly.1@research.gla.ac.uk"
-    - label: "UofG Research"
-      icon: "fas fa-fw fa-link"
-      url: "https://gla.ac.uk/pgrs/ethankelly"
+      url: "mailto:e.hunter.2@research.gla.ac.uk"
+    # - label: "UofG Research"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://gla.ac.uk/pgrs/ethankelly"
     - label: "GitHub"
       icon: "fas fa-fw fa-github"
-      url: "https://github.com/ethankelly/"
+      url: "https://github.com/ethan-cs/"
 
 collections: 
     portfolio:
